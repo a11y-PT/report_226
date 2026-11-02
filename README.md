@@ -1,5 +1,5 @@
 ---
-website: "nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
+website: "Casa Ásia - Coleção Francisco Capelo"          # Entre as aspas escreve o nome do website
 date: "02/11/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://casaasia-cfc.scml.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://casaasia-cfc.scml.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
